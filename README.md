@@ -19,7 +19,7 @@ Check out the live site here: [Parallax Website](https://razorpay-duplicate.netl
 
 ----------------------------------------------------------------
 
-Author
+Author : 
 Built solo by ABHIMANYU KUMAR SINGH
 
 
