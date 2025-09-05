@@ -7,7 +7,7 @@ The project focuses on modern UI design, responsive layout, and clean styling wi
 
 ## 🔗 Live Demo
 
-Check out the live site here: [Parallax Website](https://razorpay-duplicate.netlify.app)
+Check out the live site here: [RazorPay Clone](https://razorpay-duplicate.netlify.app)
 
 ----------------------------------------------------------------
 
