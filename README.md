@@ -1,7 +1,7 @@
-# Parallax Website
+# RazorPay Clone
 
-A modern **parallax scrolling website** built solo using **HTML, CSS, and Tailwind CSS**. 
-The project focuses on smooth scrolling effects, responsive design, and creative layout using mostly Tailwind utilities.
+A **solo project** recreating the **RazorPay payment page** interface using **HTML, CSS, and Tailwind CSS**.  
+The project focuses on modern UI design, responsive layout, and clean styling with **mostly Tailwind utilities**.
 
 ----------------------------------------------------------------
 
